@@ -1,4 +1,4 @@
-# Tensor2Tensor Tutorial for training and evaluating data from text file
+# Tensor2Tensor Tutorial for text translation problem with text file data
 
 ## Tensor2Tensor Installation
 Please see tensor2tensor_installation.md for more detail.
